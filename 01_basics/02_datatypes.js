@@ -24,13 +24,13 @@ let state;
 
 //Data Types
 // number => 2 to power 53
-// bigint
-// string => ""
+// bigint => represent integers with arbitrary magnitude.
+// string => "represents textual data and is encoded as a sequence of 16-bit unsigned integer values"
 // boolean => true/false
 // null => is an assignment value, meaning that a variable has been declared and given the value of null(empty).
 // undefined => it means a variable has been declared but has not yet been assigned a value
 // symbol => unique
-// object
+// object => they are the only mutable values in JavaScript, i.e., the values of object can be changed
 
 console.log(typeof undefined); // Output: undefined
 console.log(typeof null); // Output: object
