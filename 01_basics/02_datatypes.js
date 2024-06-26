@@ -1,3 +1,10 @@
+/*
+Interview Question
+
+Q1. Is JavaScript Statically typed or Dynamically typed?
+-> JavaScript is a Dynamically typed language which means that variables can hold values of different types during runtime. 
+*/
+
 
 "use strict"; // treat all JS code as newer version
 
