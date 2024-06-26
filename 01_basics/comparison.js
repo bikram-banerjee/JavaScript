@@ -18,6 +18,6 @@ console.log(undefined == 0);
 console.log(undefined > 0);
 console.log(undefined < 0);
 
-// === checks whether its two operands are equal, returning a Boolean result.
+// === checks whether its two operands are equal, returning a Boolean result
 
 console.log("2" === 2);
