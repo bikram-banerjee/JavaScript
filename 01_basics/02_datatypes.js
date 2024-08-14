@@ -35,6 +35,6 @@ let state;
 console.log(typeof undefined); // Output: undefined
 console.log(typeof null); // Output: object
 
-//Note: In the first implementation of JavaScript, JavaScript values were represented as a type tag and a value.
-//      The type tag for objects was 0, which means that (typeof null === 'object';);
-
+/* Note: In the first implementation of JavaScript, JavaScript values were represented as a type tag and a value.
+         The type tag for objects was 0, which means that (typeof null === 'object';);
+*/

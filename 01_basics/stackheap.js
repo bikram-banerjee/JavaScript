@@ -1,6 +1,6 @@
 /*
 Stack and heap are two areas in memory where data is stored. 
-The stack is used for static memory allocation which mwhich means that the size and location of the memory can change at runtime.
+The stack is used for static memory allocation which which means that the size and location of the memory can change at runtime.
 
 Stack -> primitive values (such as numbers, strings, booleans, etc.)
 Objects -> Non primitive values(such as arrays, functions, etc.) 
