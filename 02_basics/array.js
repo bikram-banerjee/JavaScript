@@ -73,8 +73,8 @@ const dc_heros = ["superman", "flash", "batman"]
 Spread Operator(...)
 The spread (...) syntax allows an iterable, such as an array or string, 
 to be expanded in places where zero or more arguments (for function calls) or elements (for array literals) are expected.
-
 */
+
 const all_new_heros = [...marvel_heros, ...dc_heros]
 console.log(all_new_heros); 
 
@@ -84,10 +84,9 @@ const real_another_array = another_array.flat(Infinity)
 console.log(real_another_array);
 
 
-
-console.log(Array.isArray("Hitesh"))
-console.log(Array.from("Hitesh"))
-console.log(Array.from({name: "hitesh"})) // interesting
+console.log(Array.isArray("Bikram"))
+console.log(Array.from("Bikram"))
+console.log(Array.from({name: "bikram"})) // interesting
 
 let score1 = 100
 let score2 = 200
